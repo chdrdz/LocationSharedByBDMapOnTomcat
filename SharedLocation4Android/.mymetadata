@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SharedLocation4Android"
+  id="myeclipse.1472032526793"
+  context-root="/SharedLocation4Android"
+  j2ee-spec="5.0"
+  archive="SharedLocation4Android.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
